@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.mercer.waypointmanager.WaypointActivity" >
+
+    <item
+        android:id="@+id/menuButtonSet"
+        android:title="@string/waypointSet"/>
+    <item android:id="@+id/menuButtonNav" 
+        android:title="@string/waypointNav">
+    </item>
+    <item android:id="@+id/menuButtonNavStop"
+        android:title="@string/waypointNavStop">
+    </item>
+        <item android:id="@+id/menuButtonReset"
+        android:title="@string/waypointNavReset">
+    </item>
+
+</menu>

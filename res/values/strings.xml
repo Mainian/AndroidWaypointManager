@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WaypointManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="saveLocation">Save Current Location</string>
+    <string name="currentLocation">Current Location:</string>
+    <string name="arrowContent">Follow Me!</string>
+    <string name="waypointOptions">Options</string>
+    
+    <string name="waypointSet">Set Waypoint</string>
+    <string name="waypointNav">Return to Waypoint</string>
+    <string name="waypointNavStop">Stop Waypoint Navigation</string>
+    <string name="waypointNavReset">Clear Data</string>
+    <string name="arrivedAtLocation">Arrived at Waypoint!</string>
+    
+    <string name="latKeyData">edu.mercer.waypointmanager.latKey</string>
+    <string name="longKeyData">edu.mercer.waypointmanager.longKey</string>
+</resources>
